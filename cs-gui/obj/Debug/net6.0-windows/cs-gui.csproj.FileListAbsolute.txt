@@ -1,0 +1,15 @@
+C:\Users\Heesang Yoon\Desktop\project_tuto\cs-basic\cs-gui\bin\Debug\net6.0-windows\cs-gui.exe
+C:\Users\Heesang Yoon\Desktop\project_tuto\cs-basic\cs-gui\bin\Debug\net6.0-windows\cs-gui.deps.json
+C:\Users\Heesang Yoon\Desktop\project_tuto\cs-basic\cs-gui\bin\Debug\net6.0-windows\cs-gui.runtimeconfig.json
+C:\Users\Heesang Yoon\Desktop\project_tuto\cs-basic\cs-gui\bin\Debug\net6.0-windows\cs-gui.dll
+C:\Users\Heesang Yoon\Desktop\project_tuto\cs-basic\cs-gui\bin\Debug\net6.0-windows\ref\cs-gui.dll
+C:\Users\Heesang Yoon\Desktop\project_tuto\cs-basic\cs-gui\bin\Debug\net6.0-windows\cs-gui.pdb
+C:\Users\Heesang Yoon\Desktop\project_tuto\cs-basic\cs-gui\obj\Debug\net6.0-windows\cs-gui.csproj.AssemblyReference.cache
+C:\Users\Heesang Yoon\Desktop\project_tuto\cs-basic\cs-gui\obj\Debug\net6.0-windows\cs-gui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Heesang Yoon\Desktop\project_tuto\cs-basic\cs-gui\obj\Debug\net6.0-windows\cs-gui.AssemblyInfoInputs.cache
+C:\Users\Heesang Yoon\Desktop\project_tuto\cs-basic\cs-gui\obj\Debug\net6.0-windows\cs-gui.AssemblyInfo.cs
+C:\Users\Heesang Yoon\Desktop\project_tuto\cs-basic\cs-gui\obj\Debug\net6.0-windows\cs-gui.csproj.CoreCompileInputs.cache
+C:\Users\Heesang Yoon\Desktop\project_tuto\cs-basic\cs-gui\obj\Debug\net6.0-windows\cs-gui.dll
+C:\Users\Heesang Yoon\Desktop\project_tuto\cs-basic\cs-gui\obj\Debug\net6.0-windows\ref\cs-gui.dll
+C:\Users\Heesang Yoon\Desktop\project_tuto\cs-basic\cs-gui\obj\Debug\net6.0-windows\cs-gui.pdb
+C:\Users\Heesang Yoon\Desktop\project_tuto\cs-basic\cs-gui\obj\Debug\net6.0-windows\cs-gui.genruntimeconfig.cache
