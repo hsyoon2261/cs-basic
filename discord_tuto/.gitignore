@@ -1,0 +1,8 @@
+.DS_STORE
+node_modules
+npm-debug.log
+/index.js
+.documentation-output
+.example-output
+gitbook
+index.html

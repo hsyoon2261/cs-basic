@@ -1,0 +1,29 @@
+{
+  "title": "React Forms",
+  "structure": {
+    "summary": "summary.md"
+  },
+
+  "plugins": [
+    "github",
+    "edit-link"
+  ],
+
+  "links": {
+    "home": "discord",
+    "sharing": {
+      "twitter": "https://twitter.com/discordapp"
+    }
+  },
+
+  "pluginsConfig": {
+    "edit-link": {
+      "base": "https://github.com/discordapp/react-forms/tree/master",
+      "label": "Suggest changes"
+    },
+
+    "github": {
+      "url": "https://github.com/discordapp/react-forms"
+    }
+  }
+}

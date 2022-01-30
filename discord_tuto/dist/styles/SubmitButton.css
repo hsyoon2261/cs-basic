@@ -1,0 +1,19 @@
+.forms-submit-button {
+  padding: 10px 8px;
+  border-radius: 4px;
+}
+
+.forms-can-submit {
+  background: rgb(114, 137, 218);
+  cursor: pointer;
+}
+
+.forms-cannot-submit {
+  background: red;
+  cursor: no-drop;
+}
+
+.forms-submitting {
+  background: grey;
+  cursor: progress;
+}
